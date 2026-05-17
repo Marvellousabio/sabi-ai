@@ -1,0 +1,8 @@
+{
+  "name": "SABI AI - Behavioral Intelligence Platform",
+  "description": "Winning solution for DSN X BCT LLM Agent Challenge 2026. A multi-agent behavioral modeling and recommendation system focused on high-fidelity Nigerian consumer simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
